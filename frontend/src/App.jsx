@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './assets/components/Navbar'
 import Home from './assets/routes/Home'
-import { Route, Routes } from 'react-router-dom'
+import { Route, Routes, HashRouter } from 'react-router-dom'
 import Skills from './assets/routes/Skills'
 import Projects from './assets/routes/Projects'
 import Contact from './assets/routes/Contact'
@@ -12,6 +12,7 @@ const App = () => {
     <>
       <div className='min-h-screen flex flex-col bg-gray-50'>
         <Navbar />
+        <HashRouter>
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/skills' element={<Skills />} />
@@ -19,6 +20,7 @@ const App = () => {
           <Route path='/certificates' element={<Certificates />} />
           <Route path='/contact' element={<Contact />} />
         </Routes>
+        </HashRouter>
       </div>
     </>
   )
