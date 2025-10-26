@@ -53,7 +53,7 @@
 //                     {/* === Project 2 === */}
 //                     <div className="bg-white shadow-lg rounded-2xl overflow-hidden hover:scale-105 transition transform">
 //                         <img
-//                             src="/src/assets/images/image.png"
+//                             src="/images/image.png"
 //                             className="w-full h-90 object-cover"
 //                         />
 //                         <div className="p-6">
@@ -75,7 +75,7 @@
 //                     {/* === Project  === */}
 //                     <div className="bg-white shadow-lg rounded-2xl overflow-hidden hover:scale-105 transition transform">
 //                         <img
-//                             src="/src/assets/images/image2.png"
+//                             src="/images/image2.png"
 //                             className="w-full h-90 object-cover"
 //                         />
 //                         <div className="p-6">
@@ -260,7 +260,7 @@ const Home = () => {
                     {/* Project 2 */}
                     <div className="bg-white shadow-lg rounded-2xl overflow-hidden hover:scale-105 transition transform">
                         <img
-                            src="/src/assets/images/image.png"
+                            src="/images/image.png"
                             alt="CPE243 Mini Project"
                             className="w-full h-60 object-cover"
                         />
@@ -283,7 +283,7 @@ const Home = () => {
                     {/* Project 3 */}
                     <div className="bg-white shadow-lg rounded-2xl overflow-hidden hover:scale-105 transition transform">
                         <img
-                            src="/src/assets/images/image2.png"
+                            src="/images/image2.png"
                             alt="CPE212 Miniproject Voltmeter"
                             className="w-full h-60 object-cover"
                         />
@@ -324,7 +324,7 @@ const Home = () => {
                     {/* Card 1 */}
                     <div className="bg-white shadow-lg rounded-2xl overflow-hidden hover:scale-105 transition-transform">
                         <img
-                            src="/src/assets/images/Basic_Cybersecurity_certificate_page.jpg"
+                            src="/images/Basic_Cybersecurity_certificate_page.jpg"
                             alt="Basic Cybersecurity"
                             className="w-full h-48 object-cover"
                         />
@@ -347,7 +347,7 @@ const Home = () => {
                     {/* Card 2 */}
                     <div className="bg-white shadow-lg rounded-2xl overflow-hidden hover:scale-105 transition-transform">
                         <img
-                            src="/src/assets/images/Problem_Solving.png"
+                            src="/images/Problem_Solving.png"
                             alt="Problem Solving (Basic)"
                             className="w-full h-48 object-cover"
                         />
@@ -369,7 +369,7 @@ const Home = () => {
                     {/* Card 3 */}
                     <div className="bg-white shadow-lg rounded-2xl overflow-hidden hover:scale-105 transition-transform">
                         <img
-                            src="/src/assets/images/Sql.png"
+                            src="/images/Sql.png"
                             alt="Problem Solving (Basic)"
                             className="w-full h-48 object-cover"
                         />

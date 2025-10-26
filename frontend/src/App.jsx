@@ -9,10 +9,8 @@ import Certificates from './assets/routes/Certificates'
 
 const App = () => {
   return (
-    <>
       <div className='min-h-screen flex flex-col bg-gray-50'>
         <Navbar />
-        <Router>
           <Routes>
             <Route path='/' element={<Home />} />
             <Route path='/skills' element={<Skills />} />
@@ -20,9 +18,7 @@ const App = () => {
             <Route path='/certificates' element={<Certificates />} />
             <Route path='/contact' element={<Contact />} />
           </Routes>
-        </Router>
       </div>
-    </>
   )
 }
 
