@@ -162,7 +162,7 @@ const Home = () => {
                     A 4th-year Computer Engineering student at Sripatum University.
                     Passionate about Learning new technologies.
 
-                    Currently seeking a Website Developer role for a Co-op position from January 5 to April 24, 2026.
+                    Currently seeking a Developer role for a Co-op position from January 5 to April 24, 2026.
                 </p>
 
                 {/* Button Scroll to Projects */}
