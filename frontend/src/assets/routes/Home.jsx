@@ -160,9 +160,9 @@ const Home = () => {
                 <h1 className="text-5xl font-bold mb-4">Hi, I'm Nuttamon Malakan</h1>
                 <p className="text-xl max-w-2xl mb-6">
                     A 4th-year Computer Engineering student at Sripatum University.
-                    Passionate about Cybersecurity and Learning new technologies.
+                    Passionate about Learning new technologies.
 
-                    Currently seeking a Website Developer or Cybersecurity role for a Co-op position from January 5 to April 24, 2026.
+                    Currently seeking a Website Developer role for a Co-op position from January 5 to April 24, 2026.
                 </p>
 
                 {/* Button Scroll to Projects */}
